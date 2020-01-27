@@ -19,8 +19,6 @@ __Link do Grupo #2:__ [`Dicas e Soluções de T.I. #2`](https://chat.whatsapp.co
 
 __Link do Discord do Grupo:__ [`Dicas e Soluções de T.I.`](https://discord.gg/JK74w2k)
 
-__Link do Telegram do Grupo:__ [`Dicas e Soluções de T.I.`](linkaqui)
-
 __Acervo:__ [`Acervo Grupo Bonobo`](http://down.grupobonobo.com.br/)
 
 *Sigam as regras e vamos nos manter juntos!*
