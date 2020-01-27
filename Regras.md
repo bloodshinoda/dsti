@@ -8,6 +8,8 @@ __3ª Regra:__ É proibido anúncios e propagandas de qualquer natureza.
 
 __4ª Regra:__ É proibido imagens, vídeos, áudios e piadas fora do tema do grupo e do contexto sendo discutido.
 
+__5ª Regra:__ É proibido o enviio de áudios, pois ninguém é obrigado a parar o que está fazendo para ouvir o que alguém tem à dizer.
+
 ---
 ## Links
 
