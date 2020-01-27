@@ -10,6 +10,8 @@ __4ª Regra:__ É proibido imagens, vídeos, áudios e piadas fora do tema do gr
 
 __5ª Regra:__ É proibido o envio de áudios, pois ninguém é obrigado a parar o que está fazendo para ouvir o que alguém tem à dizer.
 
+E antes de fazer perguntas muito básicas sem saber de todas as variáveis, não esqueça de perguntar ao tio [Google](https://www.google.com.br).
+
 ---
 ## Links
 
