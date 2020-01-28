@@ -4,7 +4,7 @@ __1ª Regra:__ São proibidos palavrões, ironias, provocações, ameaças, viol
 
 __2ª Regra:__ A permanência no grupo está vinculada a participação.
 
-__3ª Regra:__ É proibido anúncios e propagandas de qualquer natureza.
+__3ª Regra:__ É proibido anúncios e propagandas de qualquer natureza, salvo quando especificado motivo de comparação ou solicitação de sugestões.
 
 __4ª Regra:__ É proibido imagens, vídeos, áudios e piadas fora do tema do grupo e do contexto sendo discutido.
 
