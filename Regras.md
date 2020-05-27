@@ -8,7 +8,7 @@ __3ª Regra:__ É proibido anúncios e propagandas de qualquer natureza, salvo q
 
 __4ª Regra:__ É proibido imagens, vídeos, áudios e piadas fora do tema do grupo e do contexto sendo discutido.
 
-__Em caso de violação__ o usuário será notificado, tendo 30 minutos para se retratar, na falta de uma retratação ou exclusão da publicação que viola as regras, o usuário será __BANIDO__ do grupo, salvo quando ferir a moral e honra de nosso grupo com conteúdo pornográfico ou puramente criminoso, onde o usuário será __BANIDO__ sem chance de retorno.
+__Em caso de violação__ o usuário será notificado, tendo 30 minutos para se retratar, na falta de uma retratação ou exclusão da publicação que viola as regras, o usuário será __BANIDO__ do grupo, salvo quando ferir a moral e honra de nosso grupo com conteúdo pornográfico ou puramente criminoso, onde o usuário será __BANIDO INSTANTANEAMENTE__ sem chance de retorno.
 
 E antes de fazer perguntas muito básicas sem saber de todas as variáveis, não esqueça de perguntar ao tio [Google](https://www.google.com.br).
 
