@@ -23,7 +23,7 @@ __Link do Discord do Grupo:__ [`Dicas e Soluções de T.I.`](https://discord.gg/
 
 __Acervo:__ [`Acervo Grupo Bonobo`](http://down.grupobonobo.com.br/)
 
-*Senha: __DSTIacervo__*
+*Senha: __AcervoDsti__*
 
 Quem desejar contribuir nos custos do acervo, pode fazer isso através do link:
 [`🔗 Contribuir´](http://down.grupobonobo.com.br/contribuir/)
