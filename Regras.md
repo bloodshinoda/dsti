@@ -21,6 +21,8 @@ __Link do Grupo #2:__ [`Dicas e Soluções de T.I. #2`](https://chat.whatsapp.co
 
 __Link do Discord do Grupo:__ [`Dicas e Soluções de T.I.`](https://discord.gg/JK74w2k)
 
+__Link do Grupo de Vendas:__ [`Vendas e Trocas T.I.`](https://chat.whatsapp.com/LEq9MnDyBds7eOTi4uUt8Y)
+
 __Acervo:__ [`Acervo Grupo Bonobo`](http://down.grupobonobo.com.br/)
 
 *Senha: __AcervoDsti__*
