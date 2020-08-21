@@ -23,9 +23,11 @@ __Link do Discord do Grupo:__ [`Dicas e Soluções de T.I.`](https://discord.gg/
 
 __Link do Grupo de Vendas:__ [`Vendas e Trocas T.I.`](https://chat.whatsapp.com/LEq9MnDyBds7eOTi4uUt8Y)
 
-__Acervo:__ [`Acervo Grupo Bonobo`](http://down.grupobonobo.com.br/)
+## Acervo
 
-*Senha: __AcervoDsti__*
+O acervo atualmente encontra-se disponível apenas para contribuintes.
+
+__Acervo:__ [`Acervo Grupo Bonobo`](http://down.grupobonobo.com.br/)
 
 Quem desejar contribuir nos custos do acervo, pode fazer isso através do link:
 [`🔗 Contribuir´](https://picpay.me/vilsonheuerdeoliveira)
