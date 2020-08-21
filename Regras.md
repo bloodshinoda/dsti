@@ -28,7 +28,7 @@ __Acervo:__ [`Acervo Grupo Bonobo`](http://down.grupobonobo.com.br/)
 *Senha: __AcervoDsti__*
 
 Quem desejar contribuir nos custos do acervo, pode fazer isso através do link:
-[`🔗 Contribuir´](http://down.grupobonobo.com.br/contribuir/)
+[`🔗 Contribuir´](https://picpay.me/vilsonheuerdeoliveira)
 
 Lembrando que quem contribuir terá acesso à Games, Emuladores, Fontes de Texto e ISO's personalizadas, que já contam com Office e demais essenciais inclusos.
 
