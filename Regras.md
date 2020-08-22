@@ -30,7 +30,9 @@ O acervo atualmente encontra-se disponível apenas para contribuintes.
 __Acervo:__ [`Acervo Grupo Bonobo`](http://down.grupobonobo.com.br/)
 
 Quem desejar contribuir nos custos do acervo, pode fazer isso através do link:
-[`🔗 Contribuir´](https://picpay.me/vilsonheuerdeoliveira)
+[🔗 Contribuir](https://picpay.me/vilsonheuerdeoliveira)
+
+Após contribuir, só informar no grupo ou entrar em contato com: (47) 99756-3521
 
 Lembrando que quem contribuir terá acesso à Games, Emuladores, Fontes de Texto e ISO's personalizadas, que já contam com Office e demais essenciais inclusos.
 
