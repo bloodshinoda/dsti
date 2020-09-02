@@ -25,6 +25,8 @@ __Link do Grupo de Vendas:__ [`Vendas e Trocas T.I.`](https://chat.whatsapp.com/
 
 ## Acervo
 
+Contamos com um completo acervo de ferramentas e softwares sempre atualizados para facilitar a vida de todos, onde tudo está bem organizado e separado em seções para facilitar a navegação, tudo com download direto.
+
 O acervo atualmente encontra-se disponível apenas para contribuintes.
 
 __Acervo:__ [`Acervo Grupo Bonobo`](http://down.grupobonobo.com.br/)
