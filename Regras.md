@@ -23,21 +23,6 @@ __Link do Discord do Grupo:__ [`Dicas e Soluções de T.I.`](https://discord.gg/
 
 __Link do Grupo de Vendas:__ [`Vendas e Trocas T.I.`](https://chat.whatsapp.com/LEq9MnDyBds7eOTi4uUt8Y)
 
-## Acervo
-
-Contamos com um completo acervo de ferramentas e softwares sempre atualizados para facilitar a vida de todos, onde tudo está bem organizado e separado em seções para facilitar a navegação, tudo com download direto.
-
-O acervo atualmente encontra-se disponível apenas para contribuintes.
-
-__Acervo:__ [`Acervo Grupo Bonobo`](http://down.grupobonobo.com.br/)
-
-Quem desejar contribuir nos custos do acervo, pode fazer isso através do link:
-[🔗 Contribuir](https://picpay.me/vilsonheuerdeoliveira)
-
-Após contribuir, só informar no grupo ou entrar em contato com: (47) 99756-3521
-
-Lembrando que quem contribuir terá acesso à Games, Emuladores, Fontes de Texto e ISO's personalizadas, que já contam com Office e demais essenciais inclusos.
-
 *Sigam as regras e vamos nos manter juntos!*
 
 ---
